@@ -2,7 +2,7 @@ package org.example.thread_synchronized.real_practice;
 
 
 class BankAccount {
-    private int balance = 1000; // Starting balance
+    private int balance = 1000;
 
     public void withdraw(int amount) {
         if (balance >= amount) {
