@@ -15,6 +15,7 @@ public class Counter {
 //        }
 //    }
 
+    //changes are updated
     public int getCount() {
         return count;
     }
